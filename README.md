@@ -35,14 +35,13 @@ To set up the project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/ManiNagaraj2/Smart-Document-Assistant.git
    cd your-repo
    ```
    
 2. **Install the necessary Python packages using requirements.txt:**
 
 ```bash
-Copy code
 pip install -r requirements.txt
 ```
 
