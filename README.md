@@ -5,7 +5,7 @@
 The Document Interaction Platform allows users to upload various types of documents (PDF, CSV, DOCX, TXT) and interact with them using text or voice queries. It supports both text-based and voice-based interactions, provides document summarization, and utilizes state-of-the-art language models and speech recognition technologies.
 
 ### Features
-- **Document Upload**: Supports PDF, CSV, DOCX, and TXT files.
+- **Versatile Document Support**: Supports PDF, CSV, DOCX, and TXT files.
 - **Text Query**: Allows users to submit text queries to retrieve relevant information from the documents.
 - **Voice Query**: Enables users to ask questions through voice commands.
 - **Summarization**: Provides a summary of the document content.
