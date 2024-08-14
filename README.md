@@ -16,7 +16,7 @@ The Document Interaction Platform allows users to upload various types of docume
 - **LangChain**: Framework for managing and using language models.
 - **Google Generative AI**: For generating answers based on document content.
 - **FAISS**: Library for efficient similarity search and clustering.
-- **Transformers**: For summarization using pre-trained models.
+- **Hugging Face Transformers**: For summarization using pre-trained models.
 - **SpeechRecognition**: For speech-to-text conversion.
 - **gTTS**: Google Text-to-Speech for converting text to speech.
 - **Streamlit**: For building the interactive web interface.
