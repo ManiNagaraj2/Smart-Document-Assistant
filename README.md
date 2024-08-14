@@ -40,15 +40,8 @@ pip install python-docx
 pip install SpeechRecognition gTTS pyaudio
 pip install streamlit
 
-### Configuration
-
-### Set Up Google API Key
-
-To use Google Generative AI services, you need to set up your Google API key. Replace `"YOUR_GOOGLE_API_KEY"` in the code snippet below with your actual API key.
-
-```python
-import os
-os.environ["GOOGLE_API_KEY"] = "YOUR_GOOGLE_API_KEY"
+Configuration
+Set up Google API Key: Replace "YOUR_GOOGLE_API_KEY" in the code with your actual Google API key.
 
 Usage
 Running the Application
