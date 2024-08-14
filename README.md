@@ -30,15 +30,20 @@ The Document Interaction Platform allows users to upload various types of docume
 
 ### Install Required Packages
 
-Install the necessary Python packages using `pip`. You can run the following commands:
+To set up the project, follow these steps:
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/yourusername/your-repo.git
+   cd your-repo
+   ```
+   
+2. **Install the necessary Python packages using requirements.txt:**
 
 ```bash
-pip install -U --quiet langchain-google-genai langchain faiss-cpu pypdf sentence-transformers
-pip install -U --quiet langchain-community pandas
-pip install PyMuPDF
-pip install python-docx
-pip install SpeechRecognition gTTS pyaudio
-pip install streamlit
+Copy code
+pip install -r requirements.txt
 ```
 
 ## Configuraion
