@@ -58,7 +58,7 @@ Text Query: Select "📝 Text Query" and enter your query in the text input fiel
 Voice Query: Select "🎤 Voice Query" and click "🎙️ Record Voice Query" to ask questions using your voice.
 Speak Answer: Use the "🔊 Speak Answer" button to listen to the response.
 
-### Code Structure
+## Code Structure
 smartdoc.ipynb: Jupyter notebook containing the core functionality for document processing, querying, and summarization.
 app.py: Streamlit application for interactive document upload, query, and summarization.
 
