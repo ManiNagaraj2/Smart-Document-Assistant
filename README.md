@@ -40,13 +40,16 @@ pip install python-docx
 pip install SpeechRecognition gTTS pyaudio
 pip install streamlit
 
-Configuration
-Set up Google API Key: Replace "YOUR_GOOGLE_API_KEY" in the code with your actual Google API key.
+## Configuration
 
-python
-Copy code
+### Set Up Google API Key
+
+To use Google Generative AI services, you need to set up your Google API key. Replace `"YOUR_GOOGLE_API_KEY"` in the code snippet below with your actual API key.
+
+```python
 import os
 os.environ["GOOGLE_API_KEY"] = "YOUR_GOOGLE_API_KEY"
+
 Usage
 Running the Application
 To run the Streamlit web application, use the following command:
@@ -76,7 +79,3 @@ FAISS
 Transformers
 SpeechRecognition
 gTTS
-Contact
-For any questions or feedback, feel free to reach out at your-email@example.com.
-
-Note: Ensure that all the necessary permissions and environment variables are correctly set up before running the application.
