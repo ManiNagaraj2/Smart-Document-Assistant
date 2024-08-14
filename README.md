@@ -44,8 +44,8 @@ pip install streamlit
 ## Configuraion
 Set up Google API Key: Replace "YOUR_GOOGLE_API_KEY" in the code with your actual Google API key.
 
-## Usage
-Running the Application
+### Usage
+## Running the Application
 To run the Streamlit web application, use the following command:
 ```bash
 streamlit run app.py
