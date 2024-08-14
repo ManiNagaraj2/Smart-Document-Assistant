@@ -39,10 +39,13 @@ pip install PyMuPDF
 pip install python-docx
 pip install SpeechRecognition gTTS pyaudio
 pip install streamlit
+
 Configuration
 Set up Google API Key: Replace "YOUR_GOOGLE_API_KEY" in the code with your actual Google API key.
+
 python
 Copy code
+import os
 os.environ["GOOGLE_API_KEY"] = "YOUR_GOOGLE_API_KEY"
 Usage
 Running the Application
@@ -60,3 +63,20 @@ Speak Answer: Use the "🔊 Speak Answer" button to listen to the response.
 Code Structure
 smartdoc.ipynb: Jupyter notebook containing the core functionality for document processing, querying, and summarization.
 app.py: Streamlit application for interactive document upload, query, and summarization.
+Contributing
+Contributions are welcome! Please open an issue or submit a pull request if you have suggestions or improvements.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgements
+LangChain
+Google Generative AI
+FAISS
+Transformers
+SpeechRecognition
+gTTS
+Contact
+For any questions or feedback, feel free to reach out at your-email@example.com.
+
+Note: Ensure that all the necessary permissions and environment variables are correctly set up before running the application.
