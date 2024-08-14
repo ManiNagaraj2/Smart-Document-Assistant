@@ -63,5 +63,6 @@ Speak Answer: Use the "🔊 Speak Answer" button to listen to the response.
 
 ## Code Structure
 smartdoc.ipynb: Jupyter notebook containing the core functionality for document processing, querying, and summarization.
+
 app.py: Streamlit application for interactive document upload, query, and summarization.
 
