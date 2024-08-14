@@ -44,21 +44,21 @@ pip install streamlit
 ## Configuraion
 Set up Google API Key: Replace "YOUR_GOOGLE_API_KEY" in the code with your actual Google API key.
 
-### Usage
-## Running the Application
+## Usage
+### Running the Application
 To run the Streamlit web application, use the following command:
 ```bash
 streamlit run app.py
 ```
 
-## Interacting with the Application
+### Interacting with the Application
 Upload a Document: Choose a file (PDF, CSV, DOCX, or TXT) using the file uploader.
 Summarize Document: Click the "📋 Summarize Document" button to get a summary of the document.
 Text Query: Select "📝 Text Query" and enter your query in the text input field.
 Voice Query: Select "🎤 Voice Query" and click "🎙️ Record Voice Query" to ask questions using your voice.
 Speak Answer: Use the "🔊 Speak Answer" button to listen to the response.
 
-## Code Structure
+### Code Structure
 smartdoc.ipynb: Jupyter notebook containing the core functionality for document processing, querying, and summarization.
 app.py: Streamlit application for interactive document upload, query, and summarization.
 
