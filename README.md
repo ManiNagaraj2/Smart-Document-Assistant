@@ -40,7 +40,7 @@ pip install python-docx
 pip install SpeechRecognition gTTS pyaudio
 pip install streamlit
 
-## Configuration
+### Configuration
 
 ### Set Up Google API Key
 
