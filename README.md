@@ -1,4 +1,4 @@
-# Smart Document Assistant
+# Smart Document Assistant Using Langchain,Google Generative AI,Transformers and Streamlit
 
 ## Overview
 
