@@ -46,10 +46,9 @@ Set up Google API Key: Replace "YOUR_GOOGLE_API_KEY" in the code with your actua
 Usage
 Running the Application
 To run the Streamlit web application, use the following command:
-
-bash
-Copy code
 streamlit run app.py
+
+
 Interacting with the Application
 Upload a Document: Choose a file (PDF, CSV, DOCX, or TXT) using the file uploader.
 Summarize Document: Click the "📋 Summarize Document" button to get a summary of the document.
