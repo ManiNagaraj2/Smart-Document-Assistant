@@ -36,14 +36,13 @@ To set up the project, follow these steps:
 
    ```bash
    git clone https://github.com/ManiNagaraj2/Smart-Document-Assistant.git
-   cd your-repo
    ```
    
 2. **Install the necessary Python packages using requirements.txt:**
 
-```bash
-pip install -r requirements.txt
-```
+   ```bash
+   pip install -r requirements.txt
+   ```
 
 ## Configuraion
 Set up Google API Key: Replace "YOUR_GOOGLE_API_KEY" in the code with your actual Google API key.
